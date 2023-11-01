@@ -53,5 +53,5 @@ Cette liste ne limite pas l'utilisation d'autres outils si vous pensez qu'ils so
 ## Lancer le projet :
 - Lancer `docker-compose up` sous le répertoire principal.
 - Une fois lancé, l'endpoint est accessible via [Swagger](http://localhost/swagger/index.html), et la base Postgres est accessible avec la configuration suivante: 
-  server : 0.0.0.0:5432
-  db:username/password : myshop:postgresusr/postgrespwd
+  - server : 0.0.0.0:5432
+  - db:username/password : myshop:postgresusr/postgrespwd
