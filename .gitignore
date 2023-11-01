@@ -2,6 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+obj/
+.vs/
 /MyShop.Presentation/MyShop.Api/bin
 /MyShop.Presentation/MyShop.Api/obj
 /MyShop.Tests/MyShop.Tests/bin
