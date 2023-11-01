@@ -50,9 +50,8 @@ Cette liste ne limite pas l'utilisation d'autres outils si vous pensez qu'ils so
 
 - Il doit être possible de lancer l'API et la BDD en même temps via un docker-compose.
 
-
-API:
-http://localhost/swagger/index.html
-Postgres:
-0.0.0.0:5432
-myshop:postgresusr/postgrespwd
+## Lancer le projet :
+- Lancer `docker-compose up` sous le répertoire principal.
+- Une fois lancé, l'endpoint est accessible via [Swagger](http://localhost/swagger/index.html), et la base Postgres est accessible avec la configuration suivante: 
+  server : 0.0.0.0:5432
+  db:username/password : myshop:postgresusr/postgrespwd
