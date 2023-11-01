@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyShop.Presentation/MyShop.Api/bin
+/MyShop.Presentation/MyShop.Api/obj
+/MyShop.Tests/MyShop.Tests/bin
+/MyShop.Tests/MyShop.Tests/obj
+/MyShop.Persistence/MyShop.Persistence/bin
+/MyShop.Persistence/MyShop.Persistence/obj
+/MyShop.Domain/MyShop.Domain/bin
+/MyShop.Domain/MyShop.Domain/obj
+/MyShop.Common/MyShop.Common/bin
+/MyShop.Common/MyShop.Common/obj
+/MyShop.Application/MyShop.Application/bin
+/MyShop.Application/MyShop.Application/obj
